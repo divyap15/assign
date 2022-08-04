@@ -1,0 +1,11 @@
+#include<stdio.h>
+main(){
+         larger();
+         factorial();
+         palindrome();
+        reverse();
+        sort();
+        fibonacci();
+        big3();
+        sum2();
+}
